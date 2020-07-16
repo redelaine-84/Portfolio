@@ -1,0 +1,15 @@
+/* Common Nav Styles */
+.nav-wrapper {
+    height: 190px;
+    background-color: lightgray;
+/* text color if added later */
+
+    /* Flexbox Container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.greet {
+    color: dimgray;
+}
